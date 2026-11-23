@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22530" appversion="8.0.1" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="198.54" author="" capturedatetime="2026-11-13T09:55:47Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 09:55" description="" heading="226.393" hideinlist="0" info="" latitude="-15.59252025" longitude="-56.10603243" nodeid="node1" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1247.JPG"/>
+    <view fovmode="2" pannorth="226.393">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="7.0425" id="Point01" pan="7.19158" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1250.JPG" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="209.05" author="" capturedatetime="2026-11-13T09:58:46Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 09:58" description="" heading="214.624" hideinlist="0" info="" latitude="-15.59256933" longitude="-56.10607399" nodeid="node2" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1250.JPG"/>
+    <view fovmode="2" pannorth="214.624">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="7.0425" id="Point01" pan="175.423" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1247.JPG" url="{node1}"/>
+      <hotspot description="" distance="6.0606" id="Point02" pan="3.1797" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T08:49:22" comment="" copyright="" customnodeid="" datetime="" description="" heading="-117.319" hideinlist="0" info="" latitude="-15.59261583" longitude="-56.10610351" nodeid="node14" source="" tags="FERNANDOPEREZCASA" title=""/>
+    <view fovmode="2" pannorth="-117.319">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="6.0606" id="Point01" pan="-148.764" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1250.JPG" url="{node2}"/>
+      <hotspot description="" distance="4.4582" id="Point02" pan="-64.4644" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1262.JPG" url="{node13}"/>
+      <hotspot description="" distance="4.22756" id="Point03" pan="123.702" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1264.JPG" url="{node7}"/>
+      <hotspot description="" distance="1.75567" id="Point04" pan="31.9362" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1269.JPG" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="208.48" author="" capturedatetime="2026-11-13T13:29:13+00:00" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:29" description="" heading="-133.426" hideinlist="0" info="" latitude="-15.59259162" longitude="-56.10613669" nodeid="node13" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1262.JPG"/>
+    <view fovmode="2" pannorth="-133.426">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="4.4582" id="Point01" pan="99.4286" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node14}"/>
+      <hotspot description="" distance="3.3627" id="Point02" pan="16.423" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1261.JPG" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="200.94" author="" capturedatetime="2026-11-13T13:28:55Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:28" description="" heading="216.52" hideinlist="0" info="" latitude="-15.59261777" longitude="-56.10615246" nodeid="node4" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1261.JPG"/>
+    <view fovmode="2" pannorth="216.52">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.3627" id="Point01" pan="-173.631" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1262.JPG" url="{node13}"/>
+      <hotspot description="" distance="3.8538" id="Point02" pan="2.54109" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1260.JPG" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="209.26" author="" capturedatetime="2026-11-13T13:28:37Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:28" description="" heading="214.873" hideinlist="0" info="" latitude="-15.59264651" longitude="-56.10617257" nodeid="node3" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1260.JPG"/>
+    <view fovmode="2" pannorth="214.873">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.8538" id="Point01" pan="-179.106" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1261.JPG" url="{node4}"/>
+      <hotspot description="" distance="4.60583" id="Point02" pan="93.8948" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1267.JPG" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="209.67" author="" capturedatetime="2026-11-13T13:29:48Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:29" description="" heading="205.466" hideinlist="0" info="" latitude="-15.59263425" longitude="-56.10606898" nodeid="node7" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1264.JPG"/>
+    <view fovmode="2" pannorth="205.466">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="4.22756" id="Point01" pan="-93.5129" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node14}"/>
+      <hotspot description="" distance="3.74108" id="Point02" pan="-1.33556" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1265.JPG" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="216.79" author="" capturedatetime="2026-11-13T13:30:07Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:30" description="" heading="200.992" hideinlist="0" info="" latitude="-15.59266428" longitude="-56.10608473" nodeid="node8" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1265.JPG"/>
+    <view fovmode="2" pannorth="200.992">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.74108" id="Point01" pan="174.19" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1264.JPG" url="{node7}"/>
+      <hotspot description="" distance="3.29416" id="Point02" pan="-8.36813" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1266.JPG" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="197.29" author="" capturedatetime="2026-11-13T13:30:28Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:30" description="" heading="210.379" hideinlist="0" info="" latitude="-15.59269010" longitude="-56.10609981" nodeid="node9" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1266.JPG"/>
+    <view fovmode="2" pannorth="210.379">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.29416" id="Point01" pan="-178.981" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1265.JPG" url="{node8}"/>
+      <hotspot description="" distance="4.5725" id="Point02" pan="-92.4109" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1267.JPG" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="198.23" author="" capturedatetime="2026-11-13T13:30:48Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:30" description="" heading="0" hideinlist="0" info="" latitude="-15.59266783" longitude="-56.10613570" nodeid="node10" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1267.JPG"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="4.5725" id="Point01" pan="-122.79" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1266.JPG" url="{node9}"/>
+      <hotspot description="" distance="4.60583" id="Point02" pan="59.0218" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1260.JPG" url="{node3}"/>
+      <hotspot description="" distance="2.54354" id="Point03" pan="-30.5466" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1268.JPG" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="198.11" author="" capturedatetime="2026-11-13T13:31:08Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:31" description="" heading="0" hideinlist="0" info="" latitude="-15.59264813" longitude="-56.10612363" nodeid="node11" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1268.JPG"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="2.54354" id="Point01" pan="149.453" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1267.JPG" url="{node10}"/>
+      <hotspot description="" distance="2.43281" id="Point02" pan="-31.1208" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1269.JPG" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="1440" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1440">
+      <level height="1440" predecode="0" preload="0" width="1440"/>
+      <level height="720" predecode="1" preload="1" width="720"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="204.18" author="" capturedatetime="2026-11-13T13:31:30Z" comment="" copyright="" customnodeid="" datetime="13/11/2026 13:31" description="" heading="0" hideinlist="0" info="" latitude="-15.59262940" longitude="-56.10611189" nodeid="node12" source="" tags="FERNANDOPEREZCASA" title="DCIM\100GOPRO\GS__1269.JPG"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="2.43281" id="Point01" pan="148.879" skinid="ht_node" target="$fwd" tilt="0" title="DCIM\100GOPRO\GS__1268.JPG" url="{node11}"/>
+      <hotspot description="" distance="1.75567" id="Point02" pan="-30.7447" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{ce907ba0-60ea-462c-8c3e-dcf7228a5792}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
